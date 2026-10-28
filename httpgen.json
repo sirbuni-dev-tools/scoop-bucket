@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/sirbuni-dev-tools/httpgen/releases/download/v0.1.0/httpgen_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/sirbuni-dev-tools/httpgen/releases/download/v0.1.1/httpgen_0.1.1_windows_amd64.zip",
             "bin": [
                 "httpgen.exe"
             ],
-            "hash": "a056eef928daca7b0d820a92fdd3510c23b36c87e775b237b1b070d47b8789ba"
+            "hash": "a9fdbba2c1ff257348e3de954beff36641c6f4f0e430cb72f2b4f758489eb2cd"
         }
     },
     "homepage": "https://github.com/sirbuni-dev-tools/httpgen",
