@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/sirbuni-dev-tools/httpgen/releases/download/v0.1.0/httpgen_0.1.0_windows_amd64.zip",
+            "bin": [
+                "httpgen.exe"
+            ],
+            "hash": "a056eef928daca7b0d820a92fdd3510c23b36c87e775b237b1b070d47b8789ba"
+        }
+    },
+    "homepage": "https://github.com/sirbuni-dev-tools/httpgen",
+    "license": "MIT",
+    "description": "Generate IntelliJ HTTP Client requests and JSON payloads from Spring and SPQR sources."
+}
